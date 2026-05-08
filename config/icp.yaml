@@ -1,0 +1,36 @@
+# Edit this to match your ideal customer profile
+
+industries:
+  - SaaS
+  - E-commerce
+  - Professional Services
+  - Home Services
+
+company_size:
+  employees_min: 5
+  employees_max: 200
+  revenue_min_usd: 500000
+
+geographies:
+  - United States
+  - Canada
+
+decision_maker_titles:
+  - CEO
+  - Founder
+  - Owner
+  - COO
+  - Head of Operations
+  - VP Operations
+
+technographic_signals:
+  - HubSpot
+  - Shopify
+  - Stripe
+
+pain_signals:
+  - hiring ops
+  - scaling team
+  - manual process
+
+min_score_for_email: 65
